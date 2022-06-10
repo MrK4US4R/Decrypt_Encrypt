@@ -18,7 +18,7 @@ pkg install git
 
  pip2 install requests bs4
 
-git clone https://github.com/MrK4US4R/Decrypt-Encrypt
+git clone https://github.com/MrK4US4R/Decrypt_Encrypt
 
 cd Decrypt-Encrypt
 
@@ -46,7 +46,7 @@ pkg install git
 
  pip2 install requests bs4
 
-git clone https://github.com/MrK4US4R/Decrypt-Encrypt
+git clone https://github.com/MrK4US4R/Decrypt_Encrypt
 
 cd Decrypt-Encrypt
 
